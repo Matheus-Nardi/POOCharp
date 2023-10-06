@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.AssemblyInfo.cs
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\Payments\bin\Debug\net6.0\Payments.exe
+C:\dev\POOCsharp\Payments\bin\Debug\net6.0\Payments.deps.json
+C:\dev\POOCsharp\Payments\bin\Debug\net6.0\Payments.runtimeconfig.json
+C:\dev\POOCsharp\Payments\bin\Debug\net6.0\Payments.dll
+C:\dev\POOCsharp\Payments\bin\Debug\net6.0\Payments.pdb
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.dll
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\refint\Payments.dll
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.pdb
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\Payments.genruntimeconfig.cache
+C:\dev\POOCsharp\Payments\obj\Debug\net6.0\ref\Payments.dll

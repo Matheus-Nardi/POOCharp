@@ -4,15 +4,42 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var pagamentoBoleto = new PagarViaBoleto();
+            var dataPagamento =pagamentoBoleto.Vencimento.ToString("d");
+            pagamentoBoleto.Pagar();
+            pagamentoBoleto.numeroBoleto = "8741520123";
+            Console.WriteLine($"Data de vencimento{dataPagamento}");
+            Console.WriteLine(pagamentoBoleto.numeroBoleto);
+            
+            Console.ReadLine();
         }
     }
 
-    class Pagamento
+      class Pagamento
     {
         //Propriedade
-        DateTime Vencimento;
+         protected DateTime Vencimento = DateTime.Now.AddDays(17);
         //Métodos-Funções
-        void Pagar() { }
+         protected void Pagar() { Console.WriteLine("Pagando"); }
+        EndereçoDeCobrança ZipCode; // Acessando um tipo complexo
     }
+    //Herança
+    public class PagarViaBoleto : Pagamento 
+    {
+        void GetInfoPai()
+        {
+            base.Vencimento = Vencimento;
+        }
+
+    }
+
+    public class EndereçoDeCobrança
+    {
+        string Cep = "";
+    
+    }
+
+
+
+
 }
