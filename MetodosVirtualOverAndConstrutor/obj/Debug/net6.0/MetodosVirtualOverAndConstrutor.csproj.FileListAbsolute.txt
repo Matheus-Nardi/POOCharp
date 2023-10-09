@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\bin\Debug\net6.0\MetodosVirtualOverAndConstrutor.exe
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\bin\Debug\net6.0\MetodosVirtualOverAndConstrutor.deps.json
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\bin\Debug\net6.0\MetodosVirtualOverAndConstrutor.runtimeconfig.json
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\bin\Debug\net6.0\MetodosVirtualOverAndConstrutor.dll
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\bin\Debug\net6.0\MetodosVirtualOverAndConstrutor.pdb
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.AssemblyInfo.cs
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.dll
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\refint\MetodosVirtualOverAndConstrutor.dll
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.pdb
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\MetodosVirtualOverAndConstrutor.genruntimeconfig.cache
+C:\dev\POOCsharp\MetodosVirtualOverAndConstrutor\obj\Debug\net6.0\ref\MetodosVirtualOverAndConstrutor.dll

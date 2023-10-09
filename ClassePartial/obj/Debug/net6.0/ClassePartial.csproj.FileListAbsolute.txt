@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\ClassePartial\bin\Debug\net6.0\ClassePartial.exe
+C:\dev\POOCsharp\ClassePartial\bin\Debug\net6.0\ClassePartial.deps.json
+C:\dev\POOCsharp\ClassePartial\bin\Debug\net6.0\ClassePartial.runtimeconfig.json
+C:\dev\POOCsharp\ClassePartial\bin\Debug\net6.0\ClassePartial.dll
+C:\dev\POOCsharp\ClassePartial\bin\Debug\net6.0\ClassePartial.pdb
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.AssemblyInfo.cs
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.dll
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\refint\ClassePartial.dll
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.pdb
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ClassePartial.genruntimeconfig.cache
+C:\dev\POOCsharp\ClassePartial\obj\Debug\net6.0\ref\ClassePartial.dll
