@@ -1,0 +1,14 @@
+C:\Users\55639\source\repos\CompararObjetos\bin\Debug\net6.0\CompararObjetos.exe
+C:\Users\55639\source\repos\CompararObjetos\bin\Debug\net6.0\CompararObjetos.deps.json
+C:\Users\55639\source\repos\CompararObjetos\bin\Debug\net6.0\CompararObjetos.runtimeconfig.json
+C:\Users\55639\source\repos\CompararObjetos\bin\Debug\net6.0\CompararObjetos.dll
+C:\Users\55639\source\repos\CompararObjetos\bin\Debug\net6.0\CompararObjetos.pdb
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.AssemblyInfoInputs.cache
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.AssemblyInfo.cs
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.csproj.CoreCompileInputs.cache
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.dll
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\refint\CompararObjetos.dll
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.pdb
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\CompararObjetos.genruntimeconfig.cache
+C:\Users\55639\source\repos\CompararObjetos\obj\Debug\net6.0\ref\CompararObjetos.dll
