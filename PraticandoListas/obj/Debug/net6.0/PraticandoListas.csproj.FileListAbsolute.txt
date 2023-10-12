@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\PraticandoListas\bin\Debug\net6.0\PraticandoListas.exe
+C:\dev\POOCsharp\PraticandoListas\bin\Debug\net6.0\PraticandoListas.deps.json
+C:\dev\POOCsharp\PraticandoListas\bin\Debug\net6.0\PraticandoListas.runtimeconfig.json
+C:\dev\POOCsharp\PraticandoListas\bin\Debug\net6.0\PraticandoListas.dll
+C:\dev\POOCsharp\PraticandoListas\bin\Debug\net6.0\PraticandoListas.pdb
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.AssemblyInfo.cs
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.dll
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\refint\PraticandoListas.dll
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.pdb
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\PraticandoListas.genruntimeconfig.cache
+C:\dev\POOCsharp\PraticandoListas\obj\Debug\net6.0\ref\PraticandoListas.dll
