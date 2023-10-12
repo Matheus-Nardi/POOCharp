@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\DelegatesDenovo\bin\Debug\net6.0\DelegatesDenovo.exe
+C:\dev\POOCsharp\DelegatesDenovo\bin\Debug\net6.0\DelegatesDenovo.deps.json
+C:\dev\POOCsharp\DelegatesDenovo\bin\Debug\net6.0\DelegatesDenovo.runtimeconfig.json
+C:\dev\POOCsharp\DelegatesDenovo\bin\Debug\net6.0\DelegatesDenovo.dll
+C:\dev\POOCsharp\DelegatesDenovo\bin\Debug\net6.0\DelegatesDenovo.pdb
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.AssemblyInfo.cs
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.dll
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\refint\DelegatesDenovo.dll
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.pdb
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\DelegatesDenovo.genruntimeconfig.cache
+C:\dev\POOCsharp\DelegatesDenovo\obj\Debug\net6.0\ref\DelegatesDenovo.dll
