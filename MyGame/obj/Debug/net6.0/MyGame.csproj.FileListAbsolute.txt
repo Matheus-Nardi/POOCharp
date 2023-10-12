@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\MyGame\bin\Debug\net6.0\MyGame.exe
+C:\dev\POOCsharp\MyGame\bin\Debug\net6.0\MyGame.deps.json
+C:\dev\POOCsharp\MyGame\bin\Debug\net6.0\MyGame.runtimeconfig.json
+C:\dev\POOCsharp\MyGame\bin\Debug\net6.0\MyGame.dll
+C:\dev\POOCsharp\MyGame\bin\Debug\net6.0\MyGame.pdb
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.AssemblyInfo.cs
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.dll
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\refint\MyGame.dll
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.pdb
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\MyGame.genruntimeconfig.cache
+C:\dev\POOCsharp\MyGame\obj\Debug\net6.0\ref\MyGame.dll
