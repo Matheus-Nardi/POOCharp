@@ -13,7 +13,16 @@ namespace MyGame
         {
             Life = 15;
             DanoSofrido = 0;
-            Nome = "CACETINHO";
+            Nome = null;
+            Vivo = true;
+        }
+
+        public void EscolhendoInimigo()
+        {
+            var nomes = new List<string>() { "Sião" , "Wuivo" , "Cacetinho" , "Arno"};
+            Random aleatorio = new Random();
+            int num = aleatorio.Next(0, 4);
+            Nome = nomes[num];
         }
 
         Usuario u = new Usuario();
@@ -21,8 +30,9 @@ namespace MyGame
         public int DanoSofrido { get; set; }
         public int DanoAoUsuario { get; set; }
         public string Nome { get; set; }
-
         public int DadoPerson { get; set; }
+
+        public bool Vivo { get; set; }
 
         public void AtkPerson()
         {
@@ -33,11 +43,23 @@ namespace MyGame
 
         public void ShowInfoAtk()
         {
+           
+
             u.VidaUsuario = 20;
+            u.VidaUsuario -= DanoAoUsuario;
             AtkPerson();
             Thread.Sleep(1500);
             Console.WriteLine("------------------------------");
+            if (Vivo == false)
+            {
+                Thread.Sleep(1400);
+                return;
+            }
+            else
+            {
             MsgPerson();
+
+            }
             if (DadoPerson < 2)
             {
                 DanoAoUsuario = 0;
@@ -49,7 +71,7 @@ namespace MyGame
             else if (DadoPerson <= 6)
             {
 
-                DanoAoUsuario = 3;
+                DanoAoUsuario = 4;
                 Console.WriteLine($"O inimigo tirou {DanoAoUsuario} de vida");
                 u.VidaUsuario -= DanoAoUsuario;
                
@@ -58,7 +80,7 @@ namespace MyGame
             }
             else if (DadoPerson <= 8)
             {
-                DanoAoUsuario = 5;
+                DanoAoUsuario = 6;
                 Console.WriteLine($"O inimigo tirou {DanoAoUsuario} de vida");
                 u.VidaUsuario -= DanoAoUsuario;
                
@@ -73,11 +95,12 @@ namespace MyGame
 
             }
             
+            
         }
 
-        public static void MsgPerson()
+        public  void MsgPerson()
         {
-            Console.WriteLine("Vez do Inimigo");
+            Console.WriteLine($"Vez do {Nome}");
             Thread.Sleep(1500);
         }
 
@@ -88,7 +111,7 @@ namespace MyGame
             u.VidaUsuario -= vida;
             Console.WriteLine("Sua vida : " + vida);
 
-            return vida;
+            return u.VidaUsuario;
         }
     }
 }

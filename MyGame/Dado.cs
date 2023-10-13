@@ -5,8 +5,8 @@ namespace MyGame
 {
     partial class Dado
     {
-        private Person pe = new Person();
         
+
         public void RolarDado()
         {
             Random dado = new Random();
@@ -15,41 +15,19 @@ namespace MyGame
 
         public int Resultado { get; set; }
 
-        public void Usuario()
+        public void UsuarioInicio()
         {
-            Console.WriteLine($"Nome do Inimigo: {pe.Nome}");
-            do
+            pe.EscolhendoInimigo();
+            while (pe.Life > 0)
             {
-                Console.WriteLine("1 - Ataque");
-                Console.WriteLine("2-Fugir");
-                Console.WriteLine("Escolha uma ação:");
-
-                short op = short.Parse(Console.ReadLine());
-                if(op == 2 )
-                {
-                    Fugir();
-                }
-                else
-                {
-                    switch (op)
-                    {
-                        case 1:
-                            Console.Clear();
-                            Dano();
-                            pe.ShowInfoAtk();
-                            var vidaUs = pe.MsgVidaDoUsuario();
-                            if(vidaUs == 0)
-                            {
-                                Console.WriteLine("INIMIGO MORTO");
-                            }
-                           
-                            break;
-                    
-                    }
-
-                }
-            } while (pe.Life > 0 );
+                Console.WriteLine($"Nome do Inimigo: {pe.Nome}");
+                Menu();
+            }
+            Console.Clear();
+            Console.WriteLine("Vitoria");
+            Console.WriteLine("Obrigado por Jogar");
+            Console.WriteLine("Pressioene qualquer tecla para sair");
         }
     }
-        
+
 }

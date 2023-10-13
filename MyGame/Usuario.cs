@@ -11,8 +11,10 @@ namespace MyGame
         public Usuario()
         {
             VidaUsuario = 20;
+            UsuVivo = true;
         }
         public int VidaUsuario { get; set; }
+        public bool UsuVivo { get; set; }
 
         public int getVida(int vida)
         {

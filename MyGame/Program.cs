@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Dado a = new Dado();
-            a.Usuario();
+            a.UsuarioInicio();
            
             Console.ReadLine();
 

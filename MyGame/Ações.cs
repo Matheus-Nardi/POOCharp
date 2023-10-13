@@ -22,6 +22,7 @@ namespace MyGame
                 pe.Life = 0;
                 Console.WriteLine($"Voce derrotou o {pe.Nome}");
                 Console.WriteLine($"Vida do Inimigo: {pe.Life}");
+                pe.Vivo = false;
             }
             else
             {
@@ -90,6 +91,38 @@ namespace MyGame
             {
                 Console.WriteLine($"Dado : {Resultado}");
                 Console.WriteLine("Não foi dessa vez");
+            }
+
+        }
+            public Person pe = new Person();
+        public  void Menu()
+        {
+            Console.WriteLine("1-Ataque");
+            Console.WriteLine("2-Fugir");
+            Console.WriteLine("0-SAIR");
+            Console.WriteLine("Escolha uma ação:");
+
+            short op = short.Parse(Console.ReadLine());
+            if (op == 2)
+            {
+                Fugir();
+            }
+            else
+            {
+                switch (op)
+                {
+                    case 1:
+                        Console.Clear();
+                        Dano();
+                        pe.ShowInfoAtk();
+                        pe.MsgVidaDoUsuario();
+                        Console.WriteLine("Aguarde novo round");
+                        Thread.Sleep(4500);
+                        Console.Clear();
+                        break;
+                    case 0: Thread.Sleep(1000); Console.Clear(); Console.WriteLine("Saindo"); Environment.Exit(0); break;
+                    default: Console.Clear(); Menu(); break;
+                }
             }
         }
     }
