@@ -4,9 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Menu incio = new Menu();
+            Dado a = new Dado();
+            a.Usuario();
            
             Console.ReadLine();
+
+            
         }
     }
 }
