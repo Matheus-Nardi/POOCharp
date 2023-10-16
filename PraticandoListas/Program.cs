@@ -7,7 +7,7 @@ namespace PraticandoListas
     {
         static void Main(string[] args)
         {
-            Ex11();
+            Ex12();
             Console.ReadLine();
         }
 
@@ -239,6 +239,25 @@ namespace PraticandoListas
                 {
                     Console.WriteLine($"O nome {userInput} está na lista");
                 }
+            }
+        }
+
+        public static void Ex12()
+        {
+            
+            var lista = new List<object>() { 'a' , 12  , "pedro" , -10  , 100 , 'c'};
+
+            foreach (var item in lista)
+            {
+                Console.WriteLine(item);
+
+            }
+
+            var onlyint = lista.OfType<int>().ToList();
+
+            foreach (var item in onlyint)
+            {
+                Console.WriteLine(item);
             }
         }
     }

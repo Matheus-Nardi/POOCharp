@@ -86,6 +86,9 @@ namespace MyGame
             {
                 Console.WriteLine($"Dado : {Resultado}");
                 Console.WriteLine("BOA , VOCE CONSEGUIU");
+                Console.WriteLine("SAINDO...");
+                Thread.Sleep(1000);
+                System.Environment.Exit(0);
             }
             else
             {
@@ -115,7 +118,7 @@ namespace MyGame
                         Console.Clear();
                         Dano();
                         pe.ShowInfoAtk();
-                        pe.MsgVidaDoUsuario();
+                        
                         Console.WriteLine("Aguarde novo round");
                         Thread.Sleep(4500);
                         Console.Clear();

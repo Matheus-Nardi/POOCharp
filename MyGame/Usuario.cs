@@ -16,9 +16,9 @@ namespace MyGame
         public int VidaUsuario { get; set; }
         public bool UsuVivo { get; set; }
 
-        public int getVida(int vida)
+        public int getVida()
         {
-            return vida = VidaUsuario;
+            return VidaUsuario;
         }
     }
 }

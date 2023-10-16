@@ -25,7 +25,6 @@ namespace MyGame
             Nome = nomes[num];
         }
 
-        Usuario u = new Usuario();
         public int Life { get; set; }
         public int DanoSofrido { get; set; }
         public int DanoAoUsuario { get; set; }
@@ -41,12 +40,10 @@ namespace MyGame
 
         }
 
+        Usuario u = new Usuario();
         public void ShowInfoAtk()
         {
            
-
-            u.VidaUsuario = 20;
-            u.VidaUsuario -= DanoAoUsuario;
             AtkPerson();
             Thread.Sleep(1500);
             Console.WriteLine("------------------------------");
@@ -64,16 +61,13 @@ namespace MyGame
             {
                 DanoAoUsuario = 0;
                 Console.WriteLine("O inimigo errou!");
-                u.VidaUsuario -= DanoAoUsuario;
-                
-               
             }
             else if (DadoPerson <= 6)
             {
 
                 DanoAoUsuario = 4;
                 Console.WriteLine($"O inimigo tirou {DanoAoUsuario} de vida");
-                u.VidaUsuario -= DanoAoUsuario;
+               
                
 
 
@@ -82,19 +76,21 @@ namespace MyGame
             {
                 DanoAoUsuario = 6;
                 Console.WriteLine($"O inimigo tirou {DanoAoUsuario} de vida");
-                u.VidaUsuario -= DanoAoUsuario;
+                
                
 
             }
             else
             {
                 DanoAoUsuario = 7;
-                u.VidaUsuario -= DanoAoUsuario;
                 Console.WriteLine($"DANO CRÍTICO, o inimigo tirou {DanoAoUsuario} de vida");
               
 
             }
             
+            var vida = u.getVida();
+            u.VidaUsuario -= vida;
+            Console.WriteLine("Sua vida : " + u.VidaUsuario);
             
         }
 
@@ -104,14 +100,6 @@ namespace MyGame
             Thread.Sleep(1500);
         }
 
-        public int MsgVidaDoUsuario()
-        {
-
-            var vida = u.getVida(DanoAoUsuario);
-            u.VidaUsuario -= vida;
-            Console.WriteLine("Sua vida : " + vida);
-
-            return u.VidaUsuario;
-        }
+        
     }
 }
