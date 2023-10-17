@@ -9,12 +9,12 @@ namespace SistemaBiblioteca
 {
     public class Biblioteca
     {
-      
+
         List<Livro> livroList = new List<Livro>();
         public Biblioteca()
         {
-            livroList = new List<Livro> ();
-            
+            livroList = new List<Livro>();
+
         }
 
         public void Menu()
@@ -27,22 +27,22 @@ namespace SistemaBiblioteca
             Console.WriteLine("4-ALUGAR LIVRO");
             Console.WriteLine("OPÇÃO :");
             short op = short.Parse(Console.ReadLine());
-           
+
             switch (op)
             {
-                
+
                 case 1: LivrosExistentes(); break;
                 case 2: AdicionarLivros(); break;
                 case 3: RemoverLivro(); break;
                 case 4: AlugarLivro(); break;
-                default: Menu(); break; 
+                default: Menu(); break;
             }
         }
         public void AdicionarLivros()
         {
             Console.Clear();
             var novoLivro = new Livro();
-             livroList.Add(novoLivro);
+            livroList.Add(novoLivro);
             Console.WriteLine("Livro Adicionado com sucesso");
             Thread.Sleep(1400);
             Menu();
@@ -70,29 +70,22 @@ namespace SistemaBiblioteca
 
         public void LivrosExistentes()
         {
-            
+
             if (livroList.Count == 0)
             {
                 Console.WriteLine("Lista vazia");
-               
+                Thread.Sleep(1400);
+                Menu();
             }
             else
             {
                 foreach (var item in livroList)
                 {
-                    
-                    if(item.Alugado == true)
-                    {
-                        Console.WriteLine("---------------");
-                        Console.Write($"Titulo:{item.Titulo}\nAutor:{item.Autor}\nNumero de Paginas:{item.Paginas}\n (ALUGADO)");
-                        Console.WriteLine("---------------");
-                    }
-                    else
-                    {
-                        Console.WriteLine("---------------");
-                        Console.Write($"Titulo:{item.Titulo}\nAutor:{item.Autor}\nNumero de Paginas:{item.Paginas}\n (DISPONÍVEL)");
-                        Console.WriteLine("---------------");
-                    }
+
+                    Console.WriteLine("---------------");
+                    Console.Write($"Titulo:{item.Titulo}\nAutor:{item.Autor}\nNumero de Paginas:{item.Paginas}\n");
+                    Console.WriteLine("---------------");
+
                     Thread.Sleep(2500);
                 }
                 Console.WriteLine("Pressione qualquer tecla para continuar");
@@ -130,6 +123,7 @@ namespace SistemaBiblioteca
                 Console.WriteLine($"Data de Retirada: {em.Retirada}");
                 Console.WriteLine($"Data de Devolução: {em.Devolucao}");
                 Console.WriteLine($"Em posse de {c.Nome}");
+               
             }
             else if (livroParaAlugar == null)
             {
@@ -144,6 +138,7 @@ namespace SistemaBiblioteca
             Console.ReadKey();
             Menu();
         }
+        
 
     }
 }

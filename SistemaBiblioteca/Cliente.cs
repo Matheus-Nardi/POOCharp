@@ -10,14 +10,15 @@ namespace SistemaBiblioteca
     {
         public Cliente()
         {
-            
            Console.WriteLine("Insira o se nome para registro:");
            Nome = Console.ReadLine();
-            
+         
         }
         public Guid Id { get; set; }
         public string Nome { get; set; }
 
+        
+        
         
        
     }
