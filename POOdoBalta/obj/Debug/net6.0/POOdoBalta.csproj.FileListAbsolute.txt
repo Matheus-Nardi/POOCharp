@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\POOdoBalta\bin\Debug\net6.0\POOdoBalta.exe
+C:\dev\POOCsharp\POOdoBalta\bin\Debug\net6.0\POOdoBalta.deps.json
+C:\dev\POOCsharp\POOdoBalta\bin\Debug\net6.0\POOdoBalta.runtimeconfig.json
+C:\dev\POOCsharp\POOdoBalta\bin\Debug\net6.0\POOdoBalta.dll
+C:\dev\POOCsharp\POOdoBalta\bin\Debug\net6.0\POOdoBalta.pdb
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.AssemblyInfo.cs
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.dll
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\refint\POOdoBalta.dll
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.pdb
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\POOdoBalta.genruntimeconfig.cache
+C:\dev\POOCsharp\POOdoBalta\obj\Debug\net6.0\ref\POOdoBalta.dll
