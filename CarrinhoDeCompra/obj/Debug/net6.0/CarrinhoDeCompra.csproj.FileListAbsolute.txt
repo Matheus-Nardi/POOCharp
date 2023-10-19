@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\CarrinhoDeCompra\bin\Debug\net6.0\CarrinhoDeCompra.exe
+C:\dev\POOCsharp\CarrinhoDeCompra\bin\Debug\net6.0\CarrinhoDeCompra.deps.json
+C:\dev\POOCsharp\CarrinhoDeCompra\bin\Debug\net6.0\CarrinhoDeCompra.runtimeconfig.json
+C:\dev\POOCsharp\CarrinhoDeCompra\bin\Debug\net6.0\CarrinhoDeCompra.dll
+C:\dev\POOCsharp\CarrinhoDeCompra\bin\Debug\net6.0\CarrinhoDeCompra.pdb
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.AssemblyInfo.cs
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.dll
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\refint\CarrinhoDeCompra.dll
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.pdb
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\CarrinhoDeCompra.genruntimeconfig.cache
+C:\dev\POOCsharp\CarrinhoDeCompra\obj\Debug\net6.0\ref\CarrinhoDeCompra.dll
