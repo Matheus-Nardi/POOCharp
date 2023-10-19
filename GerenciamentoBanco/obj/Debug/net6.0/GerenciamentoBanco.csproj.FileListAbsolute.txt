@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\GerenciamentoBanco\bin\Debug\net6.0\GerenciamentoBanco.exe
+C:\dev\POOCsharp\GerenciamentoBanco\bin\Debug\net6.0\GerenciamentoBanco.deps.json
+C:\dev\POOCsharp\GerenciamentoBanco\bin\Debug\net6.0\GerenciamentoBanco.runtimeconfig.json
+C:\dev\POOCsharp\GerenciamentoBanco\bin\Debug\net6.0\GerenciamentoBanco.dll
+C:\dev\POOCsharp\GerenciamentoBanco\bin\Debug\net6.0\GerenciamentoBanco.pdb
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.AssemblyInfo.cs
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.dll
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\refint\GerenciamentoBanco.dll
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.pdb
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\GerenciamentoBanco.genruntimeconfig.cache
+C:\dev\POOCsharp\GerenciamentoBanco\obj\Debug\net6.0\ref\GerenciamentoBanco.dll
