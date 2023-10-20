@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\EscolaNardi\bin\Debug\net6.0\EscolaNardi.exe
+C:\dev\POOCsharp\EscolaNardi\bin\Debug\net6.0\EscolaNardi.deps.json
+C:\dev\POOCsharp\EscolaNardi\bin\Debug\net6.0\EscolaNardi.runtimeconfig.json
+C:\dev\POOCsharp\EscolaNardi\bin\Debug\net6.0\EscolaNardi.dll
+C:\dev\POOCsharp\EscolaNardi\bin\Debug\net6.0\EscolaNardi.pdb
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.AssemblyInfo.cs
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.dll
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\refint\EscolaNardi.dll
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.pdb
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\EscolaNardi.genruntimeconfig.cache
+C:\dev\POOCsharp\EscolaNardi\obj\Debug\net6.0\ref\EscolaNardi.dll
