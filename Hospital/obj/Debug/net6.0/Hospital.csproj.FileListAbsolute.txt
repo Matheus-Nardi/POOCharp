@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\Hospital\bin\Debug\net6.0\Hospital.exe
+C:\dev\POOCsharp\Hospital\bin\Debug\net6.0\Hospital.deps.json
+C:\dev\POOCsharp\Hospital\bin\Debug\net6.0\Hospital.runtimeconfig.json
+C:\dev\POOCsharp\Hospital\bin\Debug\net6.0\Hospital.dll
+C:\dev\POOCsharp\Hospital\bin\Debug\net6.0\Hospital.pdb
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfo.cs
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.dll
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\refint\Hospital.dll
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.pdb
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
+C:\dev\POOCsharp\Hospital\obj\Debug\net6.0\ref\Hospital.dll
