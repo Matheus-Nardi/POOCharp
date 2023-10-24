@@ -22,7 +22,7 @@
              Console.WriteLine("DADOS DO PACIENTE");
              foreach(var paciente in pacientes)
             {
-                Console.WriteLine("Nome : " + paciente.Nome);
+                Console.WriteLine("Nome : " + paciente.Nome.ToUpper());
                 Console.WriteLine("Sexo :" + paciente.Sexo);
                 Console.WriteLine($"Data de Internação :{paciente.DataDeInternação.ToString("f")}");
 
@@ -33,7 +33,9 @@
             Console.WriteLine("AREA MEDICA");
             var med = new Medico();
             var infoMedico = med.MostrarDados();
+            med.Operar();
             Console.WriteLine(infoMedico);
+      
             Console.WriteLine("------------------");
 
             Console.WriteLine("AREA DO GERENTE");

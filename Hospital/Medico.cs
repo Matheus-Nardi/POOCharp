@@ -26,7 +26,7 @@ namespace Hospital
             Console.WriteLine("CRM :");
             CRM = Console.ReadLine();
 
-            return $" Nome :{Nome} - Sexo :{Sexo} - CRM :{CRM} - ID :{Matricula}";
+            return $" Nome :{Nome?.ToUpper()} - Sexo :{Sexo} - CRM :{CRM} - ID :{Matricula}";
         }
     }
 }
