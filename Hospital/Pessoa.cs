@@ -9,43 +9,19 @@ namespace Hospital
 {
     public abstract class Pessoa
     {
-        public string Nome
-        {
-            get { return nome; }
-            set
-            {
-                if (value != null)
-                {
-                    nome = value;
-                }
-                else
-                {
-                    Console.WriteLine("Nome nulo");
-                    nome = "desconhecido";
+        protected string Nome { get; set; }
+        protected DateTime DataDeNascimento { get; set; }
 
-                }
-            }
-        }
-        public char Sexo
-        {
-            
-            get { return sexo; }
-            set 
-            { 
-              if(value != 'M' && value != 'F' )
-                {
-                    Console.WriteLine("Sexo não reconhecido");
-                    sexo = '?';
-                }
-                else
-                    sexo = value;
-            
-            }
-        
-        }
-
-        char sexo;
-        string nome;
-
+        protected Endereco Endereco { get; set; }
     }
+
+    public class Endereco
+    {
+        public string Logradouro { get; set; }
+        private int Numero { get; set; }
+        private string Bairro { get; set; }
+        private int CEP { get; set; }
+      
+    }
+
 }

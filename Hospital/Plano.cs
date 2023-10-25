@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Hospital
 {
-    public class Medico : Pessoa
+    public class Plano
     {
-        private int CRM { get; set; }
-        private double ValorHora { get; set; }
+        private string Nome { get; set; }
+        private double Mensalidade { get; set; }
     }
 }
