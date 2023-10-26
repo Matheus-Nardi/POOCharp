@@ -1,0 +1,14 @@
+C:\dev\POOCsharp\ListEEnumerable\bin\Debug\net6.0\ListEEnumerable.exe
+C:\dev\POOCsharp\ListEEnumerable\bin\Debug\net6.0\ListEEnumerable.deps.json
+C:\dev\POOCsharp\ListEEnumerable\bin\Debug\net6.0\ListEEnumerable.runtimeconfig.json
+C:\dev\POOCsharp\ListEEnumerable\bin\Debug\net6.0\ListEEnumerable.dll
+C:\dev\POOCsharp\ListEEnumerable\bin\Debug\net6.0\ListEEnumerable.pdb
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.AssemblyInfoInputs.cache
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.AssemblyInfo.cs
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.csproj.CoreCompileInputs.cache
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.dll
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\refint\ListEEnumerable.dll
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.pdb
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ListEEnumerable.genruntimeconfig.cache
+C:\dev\POOCsharp\ListEEnumerable\obj\Debug\net6.0\ref\ListEEnumerable.dll
